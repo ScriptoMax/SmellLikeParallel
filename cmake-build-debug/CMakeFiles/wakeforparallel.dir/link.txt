@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/wakeforparallel.dir/main.cpp.o  -o wakeforparallel 
