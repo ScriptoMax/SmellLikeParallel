@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/max/CLionProjects/wakeforparallel/main.cpp
+iostream
+-
+vector
+-
+chrono
+-
+cstdlib
+-
+omp.h
+-
+cmath
+-
+memory
+-
+
